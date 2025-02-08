@@ -16,7 +16,7 @@ function App() {
   const connectBluetooth = async () => {
     try {
       const bluetoothDevice = await navigator.bluetooth.requestDevice({
-        filters: [{ name: "nRF52_LED_Controller" }],  // ✅ Filters for Arduino device name
+        filters: [{ services: [LED_SERVICE_UUID] }],  // ✅ Use service-based filtering
         optionalServices: [LED_SERVICE_UUID]
       });
 
