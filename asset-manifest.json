@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bluetooth-pwa/static/css/main.e6c13ad2.css",
-    "main.js": "/bluetooth-pwa/static/js/main.1ad98b2e.js",
+    "main.js": "/bluetooth-pwa/static/js/main.f53a795f.js",
     "index.html": "/bluetooth-pwa/index.html",
     "main.e6c13ad2.css.map": "/bluetooth-pwa/static/css/main.e6c13ad2.css.map",
-    "main.1ad98b2e.js.map": "/bluetooth-pwa/static/js/main.1ad98b2e.js.map"
+    "main.f53a795f.js.map": "/bluetooth-pwa/static/js/main.f53a795f.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1ad98b2e.js"
+    "static/js/main.f53a795f.js"
   ]
 }
